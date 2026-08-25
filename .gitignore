@@ -1,0 +1,10 @@
+Thumbs.db
+.DS_Store
+*.log
+.vercel/
+
+contenedores-jm-2/
+contenedores-jm-avanzado/
+diario-voz/
+soulchat/
+los-troncos.html
