@@ -8,3 +8,6 @@ contenedores-jm-avanzado/
 diario-voz/
 soulchat/
 los-troncos.html
+
+.vercel
+.env*
