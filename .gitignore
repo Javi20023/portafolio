@@ -11,3 +11,7 @@ los-troncos.html
 
 .vercel
 .env*
+
+server/node_modules/
+server/auth/
+server/package-lock.json

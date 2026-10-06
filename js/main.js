@@ -12,7 +12,7 @@
 
   var CONTACT_FORM_ENDPOINT = '';
   var CONTACT_EMAIL = 'contacto@javieraleon.cl';
-  var DEFAULT_ZOOM = 0.75;
+  var DEFAULT_ZOOM = 1;
 
   var audioCtx = null;
   var audioMaster = null;
